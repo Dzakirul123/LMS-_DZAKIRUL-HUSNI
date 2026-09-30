@@ -1,0 +1,6 @@
+{
+  "name": "LMS MIN 1 Paser Kelas 6 - Pembelajaran Madrasah Interaktif",
+  "description": "Learning Management System (LMS) interaktif khusus Guru dan Peserta Didik Kelas 6 (Fase C) MIN 1 Paser berbasis Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
